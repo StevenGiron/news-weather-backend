@@ -1,8 +1,432 @@
-{"level":"info","message":"Realizando petición GET para noticias"}
-info: Realizando petición GET para noticias
-info: Realizando petición GET para noticias
 [2023-02-03T07:54:11.346Z] info: Realizando petición GET para noticias
 [2023-02-03T07:57:25.045Z] info: Realizando petición GET para noticias
 [2023-02-03T08:03:39.125Z] info: Realizando petición GET para noticias
 [2023-02-03T08:03:39.130Z] error: Error al realizar petición GET para noticias
 [2023-02-03T08:05:18.710Z] info: Realizando petición GET para noticias
+[2023-02-03T13:27:24.229Z] info: Realizando log in
+[2023-02-03T13:27:24.324Z] error: Error al validar contraseña en log in
+[2023-02-03T13:27:28.698Z] info: Realizando log in
+[2023-02-03T13:27:28.833Z] info: Realizando petición GET para noticias
+[2023-02-03T13:27:36.308Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T13:27:45.420Z] info: Realizando petición GET para noticias
+[2023-02-03T13:27:47.106Z] info: Realizando peticion GET para clima
+[2023-02-03T13:27:56.171Z] info: Realizando petición GET para noticias
+[2023-02-03T13:27:57.405Z] info: Realizando peticion GET para clima
+[2023-02-03T13:28:12.214Z] info: Realizando petición GET para noticias
+[2023-02-03T13:28:17.516Z] info: Realizando peticion GET para clima
+[2023-02-03T13:28:53.843Z] info: Realizando peticion GET para clima
+[2023-02-03T13:32:15.285Z] info: Realizando peticion GET para clima
+[2023-02-03T13:35:26.185Z] info: Realizando peticion GET para clima
+[2023-02-03T13:35:45.447Z] info: Realizando peticion GET para clima
+[2023-02-03T13:35:48.164Z] info: Realizando peticion GET para clima
+[2023-02-03T13:35:57.493Z] info: Realizando peticion GET para clima
+[2023-02-03T13:36:06.036Z] info: Realizando peticion GET para clima
+[2023-02-03T13:36:37.604Z] info: Realizando peticion GET para clima
+[2023-02-03T13:37:05.042Z] info: Realizando peticion GET para clima
+[2023-02-03T13:37:16.789Z] info: Realizando peticion GET para clima
+[2023-02-03T13:37:40.578Z] info: Realizando peticion GET para clima
+[2023-02-03T13:38:09.127Z] info: Realizando peticion GET para clima
+[2023-02-03T13:38:39.881Z] info: Realizando peticion GET para clima
+[2023-02-03T13:39:06.603Z] info: Realizando peticion GET para clima
+[2023-02-03T13:39:08.890Z] info: Realizando petición GET para noticias
+[2023-02-03T13:39:11.449Z] info: Realizando peticion GET para clima
+[2023-02-03T13:40:08.187Z] info: Realizando peticion GET para clima
+[2023-02-03T13:47:12.421Z] info: Realizando peticion GET para clima
+[2023-02-03T13:49:46.989Z] info: Realizando petición GET para noticias
+[2023-02-03T13:50:00.132Z] info: Realizando peticion GET para clima
+[2023-02-03T13:50:25.928Z] info: Realizando peticion GET para clima
+[2023-02-03T13:52:17.389Z] info: Realizando peticion GET para clima
+[2023-02-03T13:52:24.200Z] info: Realizando peticion GET para clima
+[2023-02-03T13:52:37.722Z] info: Realizando peticion GET para clima
+[2023-02-03T13:52:47.808Z] info: Realizando peticion GET para clima
+[2023-02-03T13:54:03.073Z] info: Realizando peticion GET para clima
+[2023-02-03T13:54:31.793Z] info: Realizando peticion GET para clima
+[2023-02-03T13:54:38.459Z] info: Realizando peticion GET para clima
+[2023-02-03T13:54:53.140Z] info: Realizando peticion GET para clima
+[2023-02-03T13:55:06.491Z] info: Realizando peticion GET para clima
+[2023-02-03T13:56:47.189Z] info: Realizando peticion GET para clima
+[2023-02-03T13:56:47.464Z] info: Realizando peticion GET para clima
+[2023-02-03T13:58:24.182Z] info: Realizando peticion GET para clima
+[2023-02-03T13:58:24.531Z] info: Realizando peticion GET para clima
+[2023-02-03T14:00:07.312Z] info: Realizando peticion GET para clima
+[2023-02-03T14:00:11.889Z] info: Realizando peticion GET para clima
+[2023-02-03T14:00:15.320Z] info: Realizando peticion GET para clima
+[2023-02-03T14:00:18.921Z] info: Realizando petición GET para noticias
+[2023-02-03T14:00:18.932Z] info: Realizando peticion GET para clima
+[2023-02-03T14:00:24.979Z] info: Realizando peticion GET para clima
+[2023-02-03T14:00:32.363Z] info: Realizando peticion GET para clima
+[2023-02-03T14:01:27.682Z] info: Realizando peticion GET para clima
+[2023-02-03T14:01:29.107Z] info: Realizando peticion GET para clima
+[2023-02-03T14:01:42.584Z] info: Realizando peticion GET para clima
+[2023-02-03T14:01:42.877Z] info: Realizando peticion GET para clima
+[2023-02-03T14:01:52.135Z] info: Realizando peticion GET para clima
+[2023-02-03T14:01:52.427Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:02.604Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:03.034Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:22.120Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:22.546Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:41.513Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:41.772Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:47.046Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:47.336Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:57.026Z] info: Realizando peticion GET para clima
+[2023-02-03T14:02:57.319Z] info: Realizando peticion GET para clima
+[2023-02-03T14:03:11.887Z] info: Realizando peticion GET para clima
+[2023-02-03T14:03:14.369Z] info: Realizando peticion GET para clima
+[2023-02-03T14:03:18.231Z] info: Realizando peticion GET para clima
+[2023-02-03T14:03:19.787Z] info: Realizando peticion GET para clima
+[2023-02-03T14:03:52.356Z] info: Realizando peticion GET para clima
+[2023-02-03T14:03:52.652Z] info: Realizando peticion GET para clima
+[2023-02-03T14:04:05.334Z] info: Realizando peticion GET para clima
+[2023-02-03T14:04:07.353Z] info: Realizando peticion GET para clima
+[2023-02-03T14:06:27.523Z] info: Realizando peticion GET para clima
+[2023-02-03T14:06:28.018Z] info: Realizando peticion GET para clima
+[2023-02-03T14:06:42.213Z] info: Realizando peticion GET para clima
+[2023-02-03T14:06:42.562Z] info: Realizando peticion GET para clima
+[2023-02-03T14:06:59.701Z] info: Realizando peticion GET para clima
+[2023-02-03T14:06:59.996Z] info: Realizando peticion GET para clima
+[2023-02-03T14:07:09.776Z] info: Realizando peticion GET para clima
+[2023-02-03T14:07:10.212Z] info: Realizando peticion GET para clima
+[2023-02-03T14:08:02.274Z] info: Realizando peticion GET para clima
+[2023-02-03T14:08:02.788Z] info: Realizando peticion GET para clima
+[2023-02-03T14:13:40.748Z] info: Realizando peticion GET para clima
+[2023-02-03T14:13:41.147Z] info: Realizando peticion GET para clima
+[2023-02-03T14:17:07.208Z] info: Realizando peticion GET para clima
+[2023-02-03T14:17:07.566Z] info: Realizando peticion GET para clima
+[2023-02-03T14:17:11.217Z] info: Realizando petición GET para noticias
+[2023-02-03T14:17:13.828Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:17:15.462Z] info: Realizando petición GET para noticias
+[2023-02-03T14:17:27.490Z] info: Realizando petición GET para noticias
+[2023-02-03T14:17:30.025Z] info: Realizando peticion GET para clima
+[2023-02-03T14:17:31.467Z] info: Realizando peticion GET para clima
+[2023-02-03T14:21:59.358Z] info: Realizando peticion GET para clima
+[2023-02-03T14:21:59.786Z] info: Realizando peticion GET para clima
+[2023-02-03T14:22:13.943Z] info: Realizando petición GET para noticias
+[2023-02-03T14:23:16.919Z] info: Realizando petición GET para noticias
+[2023-02-03T14:23:26.213Z] info: Realizando petición GET para noticias
+[2023-02-03T14:23:54.541Z] info: Realizando petición GET para noticias
+[2023-02-03T14:24:10.391Z] info: Realizando petición GET para noticias
+[2023-02-03T14:24:44.023Z] info: Realizando petición GET para noticias
+[2023-02-03T14:25:07.520Z] info: Realizando petición GET para noticias
+[2023-02-03T14:25:26.914Z] info: Realizando petición GET para noticias
+[2023-02-03T14:25:54.669Z] info: Realizando petición GET para noticias
+[2023-02-03T14:26:08.819Z] info: Realizando petición GET para noticias
+[2023-02-03T14:26:21.721Z] info: Realizando petición GET para noticias
+[2023-02-03T14:26:34.483Z] info: Realizando petición GET para noticias
+[2023-02-03T14:26:37.184Z] info: Realizando peticion GET para clima
+[2023-02-03T14:26:37.485Z] info: Realizando peticion GET para clima
+[2023-02-03T14:26:39.136Z] info: Realizando petición GET para noticias
+[2023-02-03T14:26:53.830Z] info: Realizando peticion GET para clima
+[2023-02-03T14:26:54.121Z] info: Realizando peticion GET para clima
+[2023-02-03T14:27:40.037Z] info: Realizando peticion GET para clima
+[2023-02-03T14:27:40.383Z] info: Realizando peticion GET para clima
+[2023-02-03T14:27:45.666Z] info: Realizando peticion GET para clima
+[2023-02-03T14:27:45.956Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:23.576Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:23.846Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:28.714Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:29.000Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:35.749Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:36.007Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:52.734Z] info: Realizando peticion GET para clima
+[2023-02-03T14:28:53.056Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:00.267Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:00.562Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:26.545Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:26.980Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:37.724Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:38.011Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:48.064Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:48.369Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:49.666Z] info: Realizando peticion GET para clima
+[2023-02-03T14:29:49.965Z] info: Realizando peticion GET para clima
+[2023-02-03T14:35:50.840Z] info: Realizando log in
+[2023-02-03T14:35:51.286Z] info: Realizando petición GET para noticias
+[2023-02-03T14:35:57.879Z] info: Realizando peticion GET para clima
+[2023-02-03T14:35:58.277Z] info: Realizando peticion GET para clima
+[2023-02-03T14:36:06.705Z] info: Realizando log in
+[2023-02-03T14:36:06.816Z] info: Realizando petición GET para noticias
+[2023-02-03T14:36:11.521Z] info: Realizando peticion GET para clima
+[2023-02-03T14:36:12.096Z] info: Realizando peticion GET para clima
+[2023-02-03T14:36:13.835Z] info: Realizando petición GET para noticias
+[2023-02-03T14:36:33.735Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:36:45.726Z] info: Realizando petición GET para noticias
+[2023-02-03T14:36:46.191Z] info: Realizando peticion GET para clima
+[2023-02-03T14:36:46.488Z] info: Realizando peticion GET para clima
+[2023-02-03T14:36:48.266Z] info: Realizando petición GET para noticias
+[2023-02-03T14:36:50.048Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:36:53.587Z] info: Realizando petición GET para noticias
+[2023-02-03T14:41:56.089Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:42:12.039Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:42:12.652Z] info: Realizando petición GET para noticias
+[2023-02-03T14:42:13.813Z] info: Realizando peticion GET para clima
+[2023-02-03T14:42:14.868Z] info: Realizando peticion GET para clima
+[2023-02-03T14:42:24.434Z] info: Realizando log in
+[2023-02-03T14:42:24.553Z] info: Realizando petición GET para noticias
+[2023-02-03T14:43:49.353Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:44:14.084Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:45:39.648Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:45:43.682Z] info: Realizando petición GET para noticias
+[2023-02-03T14:45:46.069Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:45:55.766Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:45:58.485Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:46:06.764Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:46:23.048Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:46:28.661Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:46:45.326Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:49:09.795Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:49:10.202Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:49:25.162Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:49:55.014Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:50:00.077Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:50:02.119Z] info: Realizando petición GET para noticias
+[2023-02-03T14:50:03.765Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:50:25.016Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:51:58.719Z] info: Realizando petición GET para noticias
+[2023-02-03T14:52:03.529Z] info: Realizando peticion GET para clima
+[2023-02-03T14:52:04.155Z] info: Realizando peticion GET para clima
+[2023-02-03T14:52:07.195Z] info: Realizando petición GET para noticias
+[2023-02-03T14:52:10.553Z] info: Realizando peticion GET para clima
+[2023-02-03T14:52:10.917Z] info: Realizando peticion GET para clima
+[2023-02-03T14:52:24.008Z] info: Realizando petición GET para noticias
+[2023-02-03T14:54:54.426Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:55:17.627Z] info: Realizando petición GET para noticias
+[2023-02-03T14:55:19.602Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:55:26.908Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:56:20.244Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:56:23.451Z] info: Realizando petición GET para noticias
+[2023-02-03T14:56:25.134Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:56:37.747Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:56:51.414Z] info: Realizando petición GET para noticias
+[2023-02-03T14:56:56.323Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:57:08.769Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:58:15.645Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:58:25.228Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:58:41.268Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:59:18.899Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T14:59:49.994Z] info: Realizando peticion GET para clima
+[2023-02-03T14:59:50.401Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:03.146Z] info: Realizando petición GET para noticias
+[2023-02-03T15:00:04.807Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:08.895Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:16.943Z] info: Realizando petición GET para noticias
+[2023-02-03T15:00:29.930Z] error: Error al realizar peticion GET para clima
+[2023-02-03T15:00:29.952Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:31.851Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:34.855Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:35.294Z] info: Realizando peticion GET para clima
+[2023-02-03T15:00:35.947Z] info: Realizando petición GET para noticias
+[2023-02-03T15:00:39.164Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:00:52.258Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:00:54.242Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:00:57.031Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:01:05.137Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:06:38.718Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:07:01.436Z] info: Realizando peticion GET para clima
+[2023-02-03T15:07:02.264Z] info: Realizando peticion GET para clima
+[2023-02-03T15:07:04.138Z] info: Realizando petición GET para noticias
+[2023-02-03T15:07:06.268Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:07:14.701Z] info: Realizando petición GET para noticias
+[2023-02-03T15:07:16.207Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:07:16.459Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:07:22.486Z] info: Realizando petición GET para noticias
+[2023-02-03T15:07:23.517Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:07:23.760Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:07:45.414Z] info: Realizando petición GET para noticias
+[2023-02-03T15:07:46.814Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:07:47.060Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:07:49.067Z] info: Realizando petición GET para noticias
+[2023-02-03T15:07:51.323Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:07:51.557Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:07:57.873Z] info: Realizando petición GET para noticias
+[2023-02-03T15:08:00.950Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:08:01.202Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:08:02.406Z] info: Realizando petición GET para noticias
+[2023-02-03T15:08:03.452Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:08:03.688Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:08:04.288Z] info: Realizando petición GET para noticias
+[2023-02-03T15:08:05.286Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:08:06.951Z] info: Realizando petición GET para noticias
+[2023-02-03T15:08:40.013Z] info: Realizando petición GET para noticias
+[2023-02-03T15:08:41.521Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:08:41.761Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:08:45.103Z] info: Realizando petición GET para noticias
+[2023-02-03T15:08:46.536Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:09:09.104Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:09:16.369Z] info: Realizando petición GET para noticias
+[2023-02-03T15:09:18.791Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:09:19.025Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:09:25.801Z] info: Realizando petición GET para noticias
+[2023-02-03T15:09:27.401Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:09:27.663Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:09:42.266Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:09:42.512Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:10:01.179Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:10:01.419Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:10:09.433Z] info: Realizando petición GET para noticias
+[2023-02-03T15:10:30.155Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:10:30.407Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:10:43.777Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:10:44.012Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:11:56.725Z] info: Realizando petición GET para noticias
+[2023-02-03T15:11:58.155Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:11:58.395Z] error: Error al realizar petición GET para noticias por titulo
+[2023-02-03T15:12:20.178Z] info: Realizando petición GET para noticias
+[2023-02-03T15:12:20.442Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:12:21.974Z] info: Realizando peticion GET para clima
+[2023-02-03T15:12:22.600Z] info: Realizando peticion GET para clima
+[2023-02-03T15:12:24.484Z] info: Realizando petición GET para noticias
+[2023-02-03T15:12:24.724Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:12:43.160Z] info: Realizando log in
+[2023-02-03T15:12:43.317Z] info: Realizando petición GET para noticias
+[2023-02-03T15:12:43.562Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:12:57.376Z] info: Realizando peticion GET para clima
+[2023-02-03T15:12:57.782Z] info: Realizando peticion GET para clima
+[2023-02-03T15:12:59.239Z] info: Realizando petición GET para noticias
+[2023-02-03T15:12:59.474Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:13:13.671Z] info: Realizando petición GET para noticias
+[2023-02-03T15:13:13.937Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:13:50.450Z] info: Realizando petición GET para noticias
+[2023-02-03T15:13:50.737Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:14:00.385Z] info: Realizando petición GET para noticias
+[2023-02-03T15:14:00.637Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:14:03.921Z] info: Realizando petición GET para noticias
+[2023-02-03T15:14:04.166Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:14:13.580Z] info: Realizando petición GET para noticias
+[2023-02-03T15:14:13.829Z] error: Error al realizar petición GET para noticias
+[2023-02-03T15:18:15.053Z] info: Realizando peticion GET para clima
+[2023-02-03T15:18:15.566Z] info: Realizando peticion GET para clima
+[2023-02-03T15:18:17.013Z] info: Realizando petición GET para noticias
+[2023-02-03T15:18:24.525Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:18:57.031Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:18:59.523Z] info: Realizando petición GET para noticias
+[2023-02-03T15:19:01.009Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:19:04.305Z] info: Realizando petición GET para noticias
+[2023-02-03T15:19:05.428Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:19:10.907Z] info: Realizando petición GET para noticias
+[2023-02-03T15:19:57.199Z] info: Realizando petición GET para noticias
+[2023-02-03T15:20:00.251Z] info: Realizando petición GET para noticias
+[2023-02-03T15:20:12.634Z] info: Realizando petición GET para noticias
+[2023-02-03T15:20:15.718Z] info: Realizando petición GET para noticias
+[2023-02-03T15:20:19.427Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T15:20:23.394Z] info: Realizando petición GET para noticias
+[2023-02-03T15:20:33.430Z] info: Realizando petición GET para noticias
+[2023-02-03T16:18:31.483Z] info: Realizando petición GET para noticias
+[2023-02-03T16:18:40.666Z] info: Realizando petición GET para noticias
+[2023-02-03T16:18:49.182Z] info: Realizando petición GET para noticias
+[2023-02-03T16:18:53.582Z] info: Realizando peticion GET para clima
+[2023-02-03T16:18:53.944Z] info: Realizando peticion GET para clima
+[2023-02-03T16:18:55.946Z] info: Realizando petición GET para noticias
+[2023-02-03T16:18:58.982Z] info: Realizando petición GET para noticias
+[2023-02-03T16:18:59.545Z] info: Realizando peticion GET para clima
+[2023-02-03T16:18:59.816Z] info: Realizando peticion GET para clima
+[2023-02-03T16:19:00.593Z] info: Realizando petición GET para noticias
+[2023-02-03T16:19:01.874Z] info: Realizando peticion GET para clima
+[2023-02-03T16:19:02.452Z] info: Realizando peticion GET para clima
+[2023-02-03T16:19:04.355Z] info: Realizando petición GET para noticias
+[2023-02-03T16:19:14.034Z] info: Realizando petición GET para noticias
+[2023-02-03T16:19:16.189Z] info: Realizando peticion GET para clima
+[2023-02-03T16:19:16.522Z] info: Realizando peticion GET para clima
+[2023-02-03T16:19:17.714Z] info: Realizando petición GET para noticias
+[2023-02-03T16:19:19.170Z] info: Realizando peticion GET para clima
+[2023-02-03T16:19:19.517Z] info: Realizando peticion GET para clima
+[2023-02-03T16:24:22.800Z] info: Realizando peticion GET para clima
+[2023-02-03T16:26:10.516Z] info: Realizando peticion GET para clima
+[2023-02-03T16:26:10.948Z] info: Realizando peticion GET para clima
+[2023-02-03T16:27:47.516Z] info: Realizando peticion GET para clima
+[2023-02-03T16:27:47.803Z] info: Realizando peticion GET para clima
+[2023-02-03T16:28:27.984Z] info: Realizando peticion GET para clima
+[2023-02-03T16:28:28.286Z] info: Realizando peticion GET para clima
+[2023-02-03T16:28:29.384Z] info: Realizando petición GET para noticias
+[2023-02-03T16:28:30.726Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:28:37.558Z] info: Realizando petición GET para noticias
+[2023-02-03T16:28:38.932Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:28:43.299Z] info: Realizando petición GET para noticias
+[2023-02-03T16:28:46.923Z] info: Realizando petición GET para noticias
+[2023-02-03T16:28:53.393Z] info: Realizando petición GET para noticias
+[2023-02-03T16:28:59.165Z] info: Realizando petición GET para noticias
+[2023-02-03T16:29:29.432Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:29:39.985Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:29:43.646Z] info: Realizando petición GET para noticias
+[2023-02-03T16:29:44.639Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:29:46.379Z] info: Realizando petición GET para noticias
+[2023-02-03T16:29:47.524Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:29:51.997Z] info: Realizando petición GET para noticias
+[2023-02-03T16:30:27.914Z] info: Realizando petición GET para noticias
+[2023-02-03T16:30:29.545Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:30:31.320Z] info: Realizando petición GET para noticias
+[2023-02-03T16:30:32.331Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:30:33.559Z] info: Realizando petición GET para noticias
+[2023-02-03T16:30:34.462Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:30:38.392Z] info: Realizando petición GET para noticias
+[2023-02-03T16:30:49.618Z] info: Realizando petición GET para noticias
+[2023-02-03T16:30:51.249Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:31:00.043Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:31:12.810Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:31:23.195Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:31:48.480Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:31:58.766Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:32:04.496Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:32:15.451Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:32:20.925Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:33:05.116Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:33:12.389Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:33:28.284Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:33:39.622Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:34:04.648Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:34:10.917Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:34:15.556Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:34:25.397Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:34:31.483Z] info: Realizando petición GET para noticias
+[2023-02-03T16:34:33.596Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:34:36.980Z] info: Realizando petición GET para noticias
+[2023-02-03T16:34:38.372Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:39:37.974Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:39:41.855Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:39:46.417Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:39:55.512Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:40:49.759Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:41:06.518Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:41:35.553Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:41:50.366Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:42:00.185Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:42:01.635Z] info: Realizando petición GET para noticias
+[2023-02-03T16:42:02.821Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:42:57.485Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:43:06.409Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:43:12.334Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:13.046Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:13.496Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:25.060Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:25.475Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:36.666Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:36.968Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:41.838Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:43.041Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:43.472Z] info: Realizando peticion GET para clima
+[2023-02-03T16:43:44.599Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:48.243Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:49.127Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:43:52.035Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:53.556Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:43:54.459Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:55.299Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:43:56.193Z] info: Realizando petición GET para noticias
+[2023-02-03T16:43:57.944Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:44:00.473Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:28.985Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:33.316Z] info: Realizando peticion GET para clima
+[2023-02-03T16:44:33.716Z] info: Realizando peticion GET para clima
+[2023-02-03T16:44:36.840Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:40.782Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:44:41.933Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:43.434Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:44:44.319Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:45.340Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:44:46.175Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:48.331Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:49.773Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:44:50.793Z] info: Realizando petición GET para noticias
+[2023-02-03T16:44:52.249Z] info: Realizando petición GET para noticias por titulo
+[2023-02-03T16:44:53.135Z] info: Realizando petición GET para noticias
+[2023-02-03T16:45:12.467Z] info: Realizando petición GET para noticias
