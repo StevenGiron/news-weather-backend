@@ -1,6 +1,7 @@
 const { Router } = require('express');
 const { check } = require('express-validator')
 
+const logger = require('../helpers/logger')
 const { fieldValidation } = require('../middlewares/field-validation')
 const { userNotExist, userExists } = require('../helpers/db-validators')
 
@@ -13,7 +14,7 @@ const {
 const router = Router();
 
 router.post('/signup', [
-    check('username', 'Username is required').not().isEmpty(),
+    check('username', 'Username is required', ).not().isEmpty(),
     check('username').custom(userExists),
     check('password', 'password must contain at least 4 characters').isLength({ min: 4 }),
     fieldValidation

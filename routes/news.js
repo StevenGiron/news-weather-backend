@@ -1,7 +1,4 @@
 const { Router } = require('express');
-const { check } = require('express-validator');
-
-const { fieldValidation } = require('../middlewares/field-validation');
 
 const {
     getNews,
